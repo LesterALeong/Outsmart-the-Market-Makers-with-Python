@@ -1,6 +1,8 @@
 # Outsmart-the-Market-Makers-with-Python
 Mastering ICT's Market Maker Profiles
 
+## Find more content like this at [Commonstock.com](https://share.commonstock.com/share?inviter=prometheus)
+
 This repository contains a Python implementation of a trading strategy inspired by the Inner Circle Trader (ICT) concepts. The strategy focuses on identifying market maker phases using Simple Moving Averages (SMAs) and visualizing them with the help of Seaborn library.
 
 ## Getting Started
